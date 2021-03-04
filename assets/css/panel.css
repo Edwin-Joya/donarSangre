@@ -42,7 +42,7 @@ header[role=banner] h1:before {
   content: "";
   font-family: FontAwesome;
   padding-right: 0.6em;
-  color: #0077ff;
+  color: #ffffff;
 }
 header[role=banner] .utilities {
   width: 100%;
@@ -142,7 +142,6 @@ a {
   text-decoration: none;
   color: inherit;
 }
-
 h2,
 h3,
 h4 {
@@ -151,7 +150,7 @@ h4 {
 }
 
 h2 {
-  color: #00b7ff;
+  color: #000000;
 }
 
 b {
@@ -321,7 +320,7 @@ th {
 }
 
 tr:not(:first-child):hover {
-  background: rgba(0, 0, 0, 0.1);
+  background: rgba(255, 0, 0, 0.1);
 }
 
 td {
