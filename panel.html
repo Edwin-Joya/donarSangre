@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en" class="dashboard">
+<head>
+  <meta charset="UTF-8">
+  <title>Panel Administrativo</title>
+<link rel="stylesheet" href="./assets/css/panel.css">
+
+
+</head>
+<body>
+<!-- panel administrativo -->
+<header role="banner">
+  <h1>Panel administrativo</h1>
+  <ul class="utilities">
+    <li class="logout warn"><a href="">Cerrar Sesión</a></li>
+  </ul>
+</header>
+
+<nav role="navigation">
+  <ul class="main">
+    <li class="dashboard"><a href="#">Horario</a></li>
+    <li class="write"><a href="#">Administrar Zonas</a></li>
+        <li class="write"><a href="#">Administrar Calles</a></li>
+    <li class="edit"><a href="#">Rendiciones</a></li>
+    <li class="comments"><a href="#">Parquimetro</a></li>
+    <li class="users"><a href="#">Usuarios</a></li>
+  </ul>
+</nav>
+
+<main role="main">
+  <section class="panel important">
+    <h2>Gestion de Usuarios</h2>
+  <section class="panel ">
+    <h2>Usuarios Conductores</h2>
+    <table>
+      <tr>
+        <th>Nombre</th>
+        <th>Apellido</th>
+        <th>Nro usuario</th>
+        <th>Fecha de alta</th>
+        <th>Detalles</th>
+      </tr>
+      <tr>
+        <td>Carlos</td>
+        <td>Perez</td>
+        <td>1</td>
+        <td>Octubre 10, 2021</td>
+        <td><button class="btn btn-success">Ver</td>
+      </tr>
+      <tr>
+        <td>Maria</td>
+        <td>Sosa</td>
+        <td>2</td>
+        <td>Septiembre 12, 2021</td>
+        <td><button class="btn btn-success">Ver</td>
+      </tr>
+       <tr>
+        <td>Roberto</td>
+        <td>Bolagno</td>
+        <td>12</td>
+        <td>Septiembre 12, 2021</td>
+        <td><button class="btn btn-success">Ver</td>
+      </tr>
+
+      
+    </table>
+  </section>
+
+</main>
+<footer role="contentinfo"></footer>
+<!-- partial -->
+  <script  src="./assets/js/panel.js"></script>
+
+</body>
+</html>
