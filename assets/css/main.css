@@ -3645,7 +3645,7 @@ input, select, textarea {
   }
 }
 body {
-  background: #eee;
+  background: rgb(170, 170, 170);
   font-family: "Tahoma";
   -moz-user-select: none;
   -webkit-user-select: none;
@@ -3656,7 +3656,7 @@ body #scene {
   display: flex;
   align-items: center;
   justify-content: left;
-  width: 1300px;
+  width: 1275px;
   height: 500px;
   position: absolute;
   top: 0;
