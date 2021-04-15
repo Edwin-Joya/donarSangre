@@ -3656,11 +3656,11 @@ body #scene {
   display: flex;
   align-items: center;
   justify-content: left;
-  width: 1500px;
-  height: 400px;
+  width: 1300px;
+  height: 500px;
   position: absolute;
   top: 0;
-  bottom: 0;
+  bottom: 50;
   left: 0;
   right: 0;
   margin: auto;
@@ -3673,7 +3673,7 @@ body #scene #left-zone {
   height: 75%;
   flex-grow: 0;
   display: flex;
-  width: 350px;
+  width: 250px;
   align-items: center;
   justify-content: left;
 }
@@ -3788,7 +3788,7 @@ body #scene #left-zone .list li.item input[type=radio] ~ .content.content_banana
   background-repeat: no-repeat;
 }
 body #scene #left-zone .list li.item input[type=radio] ~ .content.content_banana h1 {
-  color: #F5D76E;
+  color: #ffc800;
 }
 body #scene #left-zone .list li.item input[type=radio] ~ .content.content_apple .picto {
   height: 100px;
@@ -3829,8 +3829,8 @@ body #scene #left-zone .list li.item input[type=radio]:checked ~ label.label_str
   border-right: solid 4px #D64541;
 }
 body #scene #left-zone .list li.item input[type=radio]:checked ~ label.label_banana {
-  color: #F5D76E;
-  border-right: solid 4px #F5D76E;
+  color: #ffc800;
+  border-right: solid 4px #ffc800;
 }
 body #scene #left-zone .list li.item input[type=radio]:checked ~ label.label_apple {
   color: #00B16A;
