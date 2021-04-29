@@ -15,9 +15,11 @@ if($array['contar']>0){
 $_SESSION['username'] = $dui;
   
 $mensaje = "¡Iniciaste sesion!";
-                    echo "<script>";
-                    echo "alert('$mensaje');";  
-header("Location: ./../panelU.html");
+               echo "<script>";
+    echo "alert('$mensaje');";  
+    echo "window.location = '../panelU.html';";
+    echo "</script>"; 
+//header("Location: ./../panelU.html");
   
 
 
