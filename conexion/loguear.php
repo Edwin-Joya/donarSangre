@@ -13,6 +13,10 @@ $array = mysqli_fetch_array($consulta);
 
 if($array['contar']>0){ 
 $_SESSION['username'] = $dui;
+  
+$mensaje = "¡Iniciaste sesion!";
+                    echo "<script>";
+                    echo "alert('$mensaje');";  
 header("Location: ./../panelU.html");
   
 
