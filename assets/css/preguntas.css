@@ -38,7 +38,7 @@ p {
 
 a,
 a:visited {
-  color: #4bc5b7;
+  color: #0400ff;
   text-decoration: none;
 }
 
@@ -111,8 +111,8 @@ div[class^="cat"] {
   width: 100%;
 }
 div[class^="cat"] > label {
-  background: #72d2c6;
-  color: #fff;
+  background: #9ef5eb;
+  color: rgb(61, 61, 61);
   cursor: pointer;
   display: block;
   font-weight: bold;
@@ -196,4 +196,52 @@ a:focus {
   color: #085078;
   font-weight: bold;
   outline: none;
+}
+
+
+
+
+
+
+
+
+
+
+body{
+  text-align: center;
+  padding-top: 20px;
+}
+
+.boton{
+      text-shadow: 0px 1px rgba(0, 0, 0, 0.2);
+			text-align:center;
+			text-decoration: none;
+      font-family: 'Helvetica Neue', Helvetica, sans-serif;
+      display:inline-block;
+			color: #FFF;
+			background: #7F8C8D;
+			padding: 7px 20px;
+			white-space: nowrap;
+			-webkit-border-radius: 5px;
+			-moz-border-radius: 5px;
+			border-radius: 100px;
+			margin: 10px 5px;
+			-webkit-transition: all 0.2s ease-in-out;
+			-ms-transition: all 0.2s ease-in-out;
+			-moz-transition: all 0.2s ease-in-out;
+			-o-transition: all 0.2s ease-in-out;
+			transition: all 0.2s ease-in-out;
+}
+   
+.azul{
+  background: #3498DB;
+  box-shadow: 0px 5px 0px 0px #2980B9;
+}
+
+.azul:hover{
+  background: #54ade9;
+}
+
+.azul:active{
+  box-shadow: 0px 2px 0px 0px #000000;
 }
