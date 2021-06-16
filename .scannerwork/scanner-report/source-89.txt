@@ -1,0 +1,285 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		
+		<link rel="icon" type="image/png" sizes="192x192"  href="images/android-icon-192x192.png">
+		<title>Banco de sangre</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<h1><a href="index.html">BANCO DE SANGRE</a></h1>
+						<nav class="links">
+							<ul>
+								<li><a href="#">Vetana</a></li>
+								<li><a href="#">Ventana2</a></li>
+								<li><a href="#">Ventana3</a></li>
+							
+							</ul>
+						</nav>
+						<nav class="main">
+							<ul>
+								<li class="menu">
+									<a class="fa-bars" href="#menu">Menu</a>
+								</li>
+							</ul>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+					<section id="menu">
+						<!-- Links -->
+						<section>
+							<ul class="actions stacked">
+								<li><a href="Pasos.html" class="button large fit">Pasos para Donar Sangre</a></li>
+							</ul>
+						</section>
+							<section>
+								<ul class="#">
+									<ul class="actions stacked">
+										<li><a href="login.html" class="button large fit">iniciar sesión</a></li>
+									</ul>
+									<ul class="actions stacked">
+										<li><a href="login.html" class="button large fit">Registrarse</a></li>
+									</ul>
+									
+								</ul>
+							</section>
+							<section>
+								<ul class="actions stacked">
+									<li><a href="Contactanos.html" class="button large fit">Contactanos</a></li>
+								</ul>
+							</section>
+					</section>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Post -->
+							<article class="post">
+								<header>
+									<div class="title">
+										<h2><a href="#">¿Como donar sangre?</a></h2>
+										<p>Los requisitos para que una persona pueda donar sangre son: Gozar de buena salud;  ser mayor de 18 años y menor de 65;  tener un peso mínimo de 110 libras; portar DUI, no tener conductas sexuales de riesgo, ni usar drogas.</p>
+									</div>
+									
+								</header>
+								<a href="#" class="image featured"><img src="images/foto1.jpg" alt="" /></a>
+								<p>Recuerde que antes de donar sangre no debe desvelarse la noche anterior a la donación, puede ingerir líquidos y alimentos bajos en grasa (no es necesario el ayuno completo).
+
+									El MINSAL hace un llamado a toda la población para que tomen conciencia de la necesidad de convertirse en un donante de sangre voluntario altruista y acudan a donar sangre.</p>
+								<footer>
+									<ul class="actions">
+										<li><a href="#" class="button large">Continuar leyendo</a></li>
+									</ul>
+									<ul class="stats">
+										<!--<li><a href="#">General</a></li>
+										<li><a href="#" class="icon solid fa-heart">28</a></li>
+										<li><a href="#" class="icon solid fa-comment">128</a></li> -->
+									</ul>
+								</footer>
+							</article>
+
+						<!-- Post -->
+							<article class="post">
+								<header>
+									<div class="title">
+										<h2><a href="#">¿SABES POR QUÉ TU SANGRE SALVA TRES VIDAS?</a></h2>
+										<p>La sangre es un tejido irreemplazable que tiene fecha de caducidad. Por eso, ¡os necesitamos en todo momento para que las reservas estén siempre a unos niveles aceptables! Cada una de vuestras donaciones salva tres vidas. ¿Por qué? Pues muy fácil. </p>
+									</div>
+									
+								</header>
+								<a href="single.html" class="image featured"><img src="images/foto2.jpg" alt="" /></a>
+								<p>Los 450 mililitros de cada extracción de sangre tienen tres componentes básicos: hematíes, plasma y plaquetas (además de los glóbulos blancos), esos componentes se separan y cada uno de ellos se destina para diferentes fines concretos.</p>
+								<footer>
+									<ul class="actions">
+										<li><a href="#" class="button large">Continuar Leyendo</a></li>
+									</ul>
+									<ul class="stats">
+										
+									</ul>
+								</footer>
+							</article>
+
+						<!-- Post -->
+							<article class="post">
+								<header>
+									<div class="title">
+										<h2><a href="#">¿Es seguro donar sangre en tiempos de COVID-19?</a></h2>
+										<p>Debido a la reciente pandemia por la enfermedad Covid-19, muchas personas desarrollaron un gran temor a la donación de sangre. Esto a provocado que la donación y transfusión de sangre disminuyera de manera significativa en abril y mayo, de acuerdo con el director general del Centro Nacional de la Transfusión Sanguínea, Jorge Trejo Gómora.
+
+											</p>
+									
+								</header>
+								<a href="single.html" class="image featured"><img src="images/foto3.jpg" alt="" /></a>
+								<p>A decir del especialista, durante estos últimos meses se pasó de un promedio de 140 mil donaciones en 2019 a 52 mil 677 en abril y 32 mil 855 en mayo de 2020.</p>
+								<footer>
+									<ul class="actions">
+										<li><a href="#" class="button large">Continuar Leyendo</a></li>
+									</ul>
+									<ul class="stats">
+										
+									</ul>
+								</footer>
+							</article>
+
+					
+						-->
+
+						<!-- Pagination -->
+							
+
+					</div>
+
+				<!-- Sidebar -->
+					<section id="sidebar">
+
+						<!-- Intro -->
+							<section id="intro">
+								<a href="#" class="logo"><img src="images/logoS.png" alt="" /></a>
+								<header>
+									<h2>Banco de sangre</h2>
+									
+								</header>
+							</section>
+
+						<!-- Mini Posts -->
+							<section>
+								<div class="mini-posts">
+
+									<!-- Mini Post -->
+										<article class="mini-post">
+											<header>
+												<h3><a href="#">Texto de prueba</a></h3>
+												<time class="published" datetime="2021-02-28"> febrero 28, 2021</time>
+												<a href="#" class="author"><img src="images/logousu.png" alt="" /></a>
+											</header>
+											<a href="single.html" class="image"><img src="images/foto1.jpg" alt="" /></a>
+										</article>
+
+									<!-- Mini Post -->
+										<article class="mini-post">
+											<header>
+												<h3><a href="single.html">Texto de prueba</a></h3>
+												<time class="published" datetime="2021-02-28"> febrero 28, 2021</time>
+												<a href="#" class="author"><img src="images/logousu.png" alt="" /></a>
+											</header>
+											<a href="single.html" class="image"><img src="images/foto1.jpg" alt="" /></a>
+										</article>
+
+									<!-- Mini Post -->
+										<article class="mini-post">
+											<header>
+												<h3><a href="single.html">Texto Prueba</a></h3>
+												<time class="published"datetime="2021-02-28"> febrero 28, 2021</time>
+												<a href="#" class="author"><img src="images/logousu.png" alt="" /></a>
+											</header>
+											<a href="single.html" class="image"><img src="images/foto1.jpg" alt="" /></a>
+										</article>
+
+									<!-- Mini Post -->
+										<article class="mini-post">
+											<header>
+												<h3><a href="single.html">Texto Prueba</a></h3>
+												<time class="published" datetime="2021-02-28"> febrero 28, 2021</time>
+												<a href="#" class="author"><img src="images/logousu.png" alt="" /></a>
+											</header>
+											<a href="single.html" class="image"><img src="images/foto1.jpg" alt="" /></a>
+										</article>
+
+								</div>
+							</section>
+
+						<!-- Posts List -->
+							<section>
+								<ul class="posts">
+									<li>
+										<article>
+											<header>
+												<h3><a href="single.html">Anibal</a></h3>
+												<time class="published" datetime="2021-02-28"> Marzo 2, 2021</time>
+											</header>
+											<a href="single.html" class="image"><img src="images/logousu.png" alt="" /></a>
+										</article>
+									</li>
+									<li>
+										<article>
+											<header>
+												<h3><a href="single.html">Rubidia</a></h3>
+												<time class="published" datetime="2021-02-28"> febrero 28, 2021</time>
+											</header>
+											<a href="single.html" class="image"><img src="images/logousu.png" alt="" /></a>
+										</article>
+									</li>
+									<li>
+										<article>
+											<header>
+												<h3><a href="single.html">David</a></h3>
+												<time class="published" datetime="2021-02-28"> febrero 28, 2021</time>
+											</header>
+											<a href="single.html" class="image"><img src="images/logousu.png" alt="" /></a>
+										</article>
+									</li>
+									<li>
+										<article>
+											<header>
+												<h3><a href="single.html">Carlos</a></h3>
+												<time class="published" datetime="2021-02-28"> febrero 28, 2021</time>
+											</header>
+											<a href="single.html" class="image"><img src="images/logousu.png" alt="" /></a>
+										</article>
+									</li>
+									<li>
+										<article>
+											<header>
+												<h3><a href="single.html">Alejandra</a></h3>
+												<time class="published" ddatetime="2021-02-28"> febrero 28, 2021</time>
+											</header>
+											<a href="single.html" class="image"><img src="images/logousu.png" alt="" /></a>
+										</article>
+									</li>
+								</ul>
+							</section>
+
+						<!-- About -->
+							<section class="blurb">
+								<h2>Sobre nosotros</h2>
+								<p>Somos un banco de sangre, compartimos contenidos ayudas y tambien el proceso de una donacion de sangre.</p>
+								<!--<ul class="actions">
+									<li><a href="#" class="button">Leer mas</a></li>
+								</ul>-->
+							</section>
+
+						<!-- Footer -->
+							<section id="footer">
+								<ul class="icons">
+									<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+									<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+									<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+									<li><a href="#" class="icon solid fa-rss"><span class="label">RSS</span></a></li>
+									<li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+								</ul>
+								<p class="copyright">&copy; Untitled. Design: <a href="http://html5up.net">HTML5 UP</a>. Images: <a href="http://unsplash.com">Unsplash</a>.</p>
+							</section>
+
+					</section>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

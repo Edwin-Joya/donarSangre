@@ -1,0 +1,1 @@
+  2cssXQhr"assets/sass/components/_table.scss

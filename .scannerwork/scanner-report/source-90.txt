@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Inicio de sesion</title>
+  <link rel='stylesheet' href='#'><link rel="stylesheet" href="assets/css/login.css">
+
+</head>
+<body>
+<!-- Inicio de sesion y registro -->
+<div class="login-wrap">
+	<div class="login-html">
+		<input id="tab-1" type="radio" name="tab" class="sign-in" checked><label for="tab-1" class="tab">INICIAR SESION</label>
+		<input id="tab-2" type="radio" name="tab" class="sign-up"><label for="tab-2" class="tab">REGISTRARSE</label>
+		<div class="login-form">
+			<div class="sign-in-htm">
+				<form action="conexion/loguear.php" method="POST">  
+				<div class="group">
+					<label for="user" class="label">NUMERO DE DUI</label>
+					<input id="user" name="dui" type="text" class="input">
+				</div>
+				<div class="group">
+					<label for="pass" class="label">CONTRASEÑA</label>
+					<input id="pass" name="contraseña" type="password" class="input" data-type="password">
+				</div>
+				<div class="group">
+					<input id="checkbox" type="checkbox" class="checkbox">
+					<label> Recordar contraseña</label>
+				</div>
+				<div class="group">
+					<input type="submit" class="button" value="Iniciar Sesión">
+				</div>
+				<div class="hr"></div>
+				<div class="foot-lnk">
+					<a href="#forgot">Olvidaste tu contraseña?</a>
+				</div>
+				</form>
+			</div>
+
+
+
+			
+			
+			<div class="sign-up-htm">
+				<form action="conexion/login_registrar.php" method="POST"> 
+				<div class="group">
+					<label for="user"  class="label">NOMBRE COMPLETO</label>
+					<input id="user" name="nombre" type="text" class="input">
+				</div>
+				<div class="group">
+					<label for="user" class="label">NUMERO DE DUI</label>
+					<input id="user" name="dui" type="text" class="input">
+				</div>
+				
+				<div class="group">
+					<label for="user"  class="label">EDAD</label>
+					<input id="user"  name="edad" type="text" class="input">
+				</div>
+				<div class="group">
+					<label for="pass"   class="label">NUMERO TELEFONICO</label>
+					<input id="pass" name="telefono" type="text" class="input">
+				</div>
+				<div class="group">
+					<label for="pass"  class="label">ENCARGADO</label>
+					<input id="pass" name="encargado" type="text" class="input">
+				</div>
+				<div class="group">
+					<label for="pass"   class="label">CONTRASEÑA</label>
+					<input id="pass" name="contraseña" type="password" class="input" data-type="password">
+				</div>
+				<div class="group">
+					<input id="checkbox" type="checkbox" class="checkbox">
+					<a href="terminos.html">Terminos y Condiciones.</a>
+				</div>
+				<div class="group">
+					<input type="submit" class="button" value="REGISTRARSE">
+				</div>
+			</form>
+				<div class="hr"></div>
+				<div class="foot-lnk">
+					<label for="tab-1">Ya estas registrado?</a>
+				
+				</div>
+			</form>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- Inicio de sesion y registro -->
+  
+</body>
+</html>
