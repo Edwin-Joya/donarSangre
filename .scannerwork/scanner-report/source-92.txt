@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en" class="dashboard">
+<head>
+  <meta charset="UTF-9">
+  <title>Horarios</title>
+<link rel="stylesheet" href="./assets/css/panel.css">
+
+<meta name="viewport" content="width=device-width, initial-scale=1"><link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css'>
+<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.1/css/bootstrap.css'>
+<link rel='stylesheet' href='https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css'>
+<link rel='stylesheet' href='https://cdn.datatables.net/buttons/1.5.2/css/buttons.bootstrap4.min.css'><link rel="stylesheet" href="./assets/css/panel.css">
+
+</head>
+<body>
+<!-- panel Horarios -->
+<header role="banner">
+  <h1>Horarios</h1>
+  <ul class="utilities">
+    <li class="logout warn"><a href="index.html"><strong>Cerrar Sesión</strong></a></li>
+  </ul>
+</header>
+
+<nav role="navigation">
+  <ul class="main">
+    <li class="users"><a href="panelU.html">Usuario</a></li>
+    <li class="dashboard"><a href="panelH.html">Horarios</a></li>
+    <li class="write"><a href="Lugar.html">Administrar Zonas</a></li>
+
+  </ul>
+</nav>
+
+<main role="main">
+  <section class="panel important">
+    <h2><b>Horarios</b></h2>
+    <section class="panel important">
+      <div class="container">
+  
+
+        <div class="row">
+          
+          <div class="col-12" >
+            <h3 class="titulo-tabla">Dias Habiles </h3>
+            
+            
+            <table id="ejemplo" class="table table-striped table-bordered" style="width:100%">
+              <thead>
+                  <tr>
+                      <th><b>Lunes</b></th>
+                      <th><b>Martes</b></th>
+                      <th><b>Miercoles</b></th>
+                      <th><b>Jueves</b></th>
+                      <th><b>Viernes</b></th>
+                      <th><b>Sabado</b></th>
+                      <th><b>Domingo</b></th>
+                  </tr>
+              </thead>
+              <tbody>
+                  <tr>
+                      <td>7:00 a.m. - 5:00 p.m.</td>
+                      <td>7:00 a.m. - 5:00 p.m.</td>
+                      <td>7:00 a.m. - 5:00 p.m.</td>
+                      <td>7:00 a.m. - 5:00 p.m.</td>
+                      <td>7:00 a.m. - 5:00 p.m.</td>
+                      <td>Cerrado</td>
+                      <td>Cerrado</td>
+                  </tr>
+              </tbody>
+          </table>
+            
+            
+            
+            
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+  </section>
+    
+
+</main>
+<footer role="contentinfo"></footer>
+<!-- partial -->
+  <script  src="./assets/js/panel.js"></script>
+
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.1/js/bootstrap.min.js'></script>
+<script src='https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js'></script>
+<script src='https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js'></script>
+
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.36/pdfmake.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.36/vfs_fonts.js'></script>
+</script><script  src="./assets/js/table.js"></script>
+
+</body>
+</html>

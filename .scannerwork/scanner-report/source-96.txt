@@ -1,0 +1,76 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>Terminos y Condiciones</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="single is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<h1><a href="index.html">TERMINOS Y CONDICIONES</a></h1>
+						<nav class="links">
+						</nav>
+						<nav class="main">
+							<ul>
+								<li class="menu">
+									<a class="fa-bars" href="#menu">Menu</a>
+								</li>
+							</ul>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+					<section id="menu">
+						<!-- Links -->
+					<section>
+						<ul class="actions stacked">
+							<li><a href="index.html" class="button large fit">Inicio</a></li>
+						</ul>
+					</section>
+						<section>
+							<ul class="#">
+								<ul class="actions stacked">
+									<li><a href="login.html" class="button large fit">iniciar sesión</a></li>
+								</ul>
+								<ul class="actions stacked">
+									<li><a href="login.html" class="button large fit">Registrarse</a></li>
+								</ul>
+								
+							</ul>
+						</section>
+				</section>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Post -->
+							<article class="post">
+								<header>
+									<div class="title">
+										<h2><a href="#">TERMINOS Y CONDICIONES</a></h2>
+										<p>Aqui especificamos los terminos y las condiciones de utilizar y poner sus datos en nuestra web.</p>
+									</div>
+								</header>
+								<p>Primeramente tenemos que dar a entender que esta pagina web y sus sub paginas, son un producto a prueba y no contamos con el control suficiente para poder resguardar sus datos en nuestro sistema, asi que si tiene pensado ingresar un usuario y contraseña y otra persona hace uso de otros medios para acceder con su usario, no nos hacemos responsables por perdidas de documentacion y datos personales u correos y contraseñas.</p>
+								<p>Esta pagina web es de uso, simplemente de prueba, usted al poner sus datos, nos da el acceso a ellos para poder solucionar inconvenientes, tenemos el control de todos los datos y sus contraseñas. </p>
+							</article>
+
+					</div>
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
